@@ -1,0 +1,22 @@
+body
+{
+ background-color: antiquewhite;
+}
+.box1
+{
+    list-style-type: none;
+    max-width: 100%;
+    min-width: 50%;
+    color: darkred;
+}
+.parte1
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 4px;
+    padding: 10px;
+}
+
+
+

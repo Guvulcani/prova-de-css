@@ -1,0 +1,14 @@
+.box2, img
+{
+   border: 1px solid black;
+  max-width: 100%;
+   min-width:50px;
+   display: flex;
+   padding: 10px none;
+}
+.box2
+{
+  margin: auto;
+  border :4px; 
+}
+
